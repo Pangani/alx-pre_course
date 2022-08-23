@@ -1,1 +1,3 @@
 My first readme
+Lets get new updates from friends
+...
